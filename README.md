@@ -40,7 +40,7 @@ Platform | Android
 ---
 
 ## 📁 Project Structure
-
+```bash
 lib/
 ├── screens/
 │ ├── login_screen.dart
@@ -58,10 +58,7 @@ lib/
 │ └── certificate_service.dart
 │
 └── main.dart
-
-yaml
-Copy code
-
+```
 ---
 
 ## 🔄 Application Flow
@@ -94,45 +91,18 @@ Copy code
 ```bash
 flutter pub get
 flutter run
+```
+
 Make sure:
 
 Firebase configuration files are added correctly
 
 Internet permission is enabled in AndroidManifest.xml
 
-🧪 Testing
-User registration tested
-
-Login/logout tested
-
-Admin role routing tested
-
-Certificate upload tested
-
-Certificate download tested
-
-📸 Screenshots
-Add screenshots of the following screens:
-
-Login Screen
-
-Register Screen
-
-Admin Dashboard
-
-Certificate Upload Screen
-
-User Dashboard
-
-Certificate Download Screen
-
 📌 Future Enhancements
 QR code generation & verification for certificates
-
 Certificate expiry and revocation
-
 UI/UX improvements
-
 Multi-certificate support per user
 
 📄 Conclusion
