@@ -62,7 +62,7 @@ lib/
 ---
 
 ## 🔄 Application Flow
-
+```
 App Launch
 ↓
 Login / Register
@@ -72,11 +72,7 @@ Role Router
 Admin Dashboard → Upload Certificate
 OR
 User Dashboard → Download Certificate
-
-yaml
-Copy code
-
----
+```
 
 ## ⚙️ Setup & Installation
 
@@ -94,9 +90,7 @@ flutter run
 ```
 
 Make sure:
-
 Firebase configuration files are added correctly
-
 Internet permission is enabled in AndroidManifest.xml
 
 📌 Future Enhancements
