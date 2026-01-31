@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079132393400",
+    "project_id": "virtual-internship-app",
+    "storage_bucket": "virtual-internship-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079132393400:android:59a6d3e8ecf4ed72b2894d",
+        "android_client_info": {
+          "package_name": "com.example.certificate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4YFEwpPhUUU0HtghFqCidbCTfj1Vltu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
